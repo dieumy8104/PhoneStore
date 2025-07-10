@@ -33,6 +33,7 @@ dependencies:
   flutter_stripe: ^9.2.0
   http: ^1.4.0
   flutter_phone_direct_caller: ^2.2.1
+  firebase_messaging: ^15.2.9
 
 dev_dependencies:
   flutter_test:
